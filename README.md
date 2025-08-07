@@ -41,6 +41,3 @@ A full-stack MERN application for managing and applying to jobs — with role-ba
 
 Hi, I'm Nishant Kumar Kushwaha, a B.Tech student passionate about Java & Full-Stack Development.  
 
-
-📌 *Tip:*  
-You can add screenshots below this line for extra polish!
