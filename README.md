@@ -1,4 +1,4 @@
-## 💼 Job Portal
+## 💼 Netflix Portal
 
 A full-stack MERN application for managing and applying to jobs — with role-based access for users and admins.
 
